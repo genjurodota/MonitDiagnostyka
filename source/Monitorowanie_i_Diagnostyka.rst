@@ -1,5 +1,8 @@
 Monitorowanie i Diagnostyka
 ===========================
+:Author: - Kajetan Parka
+	 - Mikołaj Piłat
+
 1. **Sesje i użytkownicy**: Monitorowanie sesji i użytkowników w administracji baz danych jest kluczowym elementem. Pozwala to na śledzenie aktywności użytkowników, zarządzanie zasobami oraz wykrywanie potencjalnych problemów.
 
 	1.1 **Szczegółowe monitorowanie aktywności użytkowników**: Administratorzy baz danych mogą śledzić, które zapytania są wykonywane przez użytkowników, jak długo trwają te zapytania i jakie są ich wyniki. Można to zrobić za pomocą narzędzi takich jak SQL Profiler (w przypadku SQL Server) lub AWR (w przypadku Oracle). Te narzędzia mogą dostarczyć szczegółowych informacji na temat zapytań, takich jak czas wykonania, zużycie procesora, ilość odczytów i zapisów na dysk, a nawet plan wykonania zapytania. Dodatkowo, administratorzy mogą monitorować aktywność na poziomie sesji, taką jak liczba otwartych transakcji, czas trwania sesji, używane zasoby i inne.

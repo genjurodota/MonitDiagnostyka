@@ -10,7 +10,7 @@ Welcome to Monitorowanie i Diagnostyka's documentation!
 	:maxdepth: 2
 	:caption: Działy:
 
-	cos/Monitorowanie_i_Diagnostyka
+	Monitorowanie_i_Diagnostyka
 
 Indices and tables
 ==================
